@@ -19,3 +19,4 @@ I also blog sometimes at [www.robertmylesmcdonnell.com](www.robertmylesmcdonnell
 - 📫 How to reach me: 
   - Twitter: [@RobertMylesMc](https://twitter.com/RobertMylesMc)
   - email: robertmylesmcdonnell@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/robert-mcdonnell-7475b320/).
