@@ -1,6 +1,6 @@
 ### Rob McDonnell
 
-I'm a senior data scientist working in Ireland in the financial payments industry. 
+I'm a manager of a data science team working in Ireland in the financial payments industry. 
 
 - 🌱 I’m currently learning 'MLOps', using GitHub Actions for data science tasks and learning about pipelines and data science project managers. 
 
