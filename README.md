@@ -13,7 +13,7 @@ A couple of my toy projects:
   - 🏉 [rugger](https://github.com/RobertMyles/rugger), and R package for rugby fans. 
 
 
-I also blog sometimes at [www.robertmylesmcdonnell.com](www.robertmylesmcdonnell.com). My site is open-source, I developed it using Gatsby.js, you can see the source [here](https://github.com/RobertMyles/site).
+I also blog sometimes at www.robertmylesmcdonnell.com. My site is open-source, I developed it using Gatsby.js, you can see the source [here](https://github.com/RobertMyles/site).
 
 
 - 📫 How to reach me: 
