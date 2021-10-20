@@ -17,8 +17,8 @@ I also blog sometimes at www.robertmylesmcdonnell.com. My site is open-source, I
 
 
 - 📫 How to reach me: 
-  - Twitter: [@RobertMylesMc](https://twitter.com/RobertMylesMc)
-  - email: robertmylesmcdonnell@gmail.com
+  - Twitter, which I don't use very much: [@RobertMylesMc](https://twitter.com/RobertMylesMc)
+  - email, which I do: robertmylesmcdonnell@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/robert-mcdonnell-7475b320/).
 
 <p align="center">
