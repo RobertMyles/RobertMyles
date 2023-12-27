@@ -1,8 +1,6 @@
 ### Rob McDonnell
 
-I'm a manager of a data science team working in Ireland in the financial payments industry. 
-
-- 🌱 I’m currently refining MLOps processes for data science tasks and learning about data science in the cloud. 
+I'm a manager of a data science team. 
 
 Open-Source projects I've contributed to:
   - [tidyRSS](https://github.com/RobertMyles/tidyRSS), an R package to get and parse RSS feeds
@@ -17,8 +15,7 @@ I also blog sometimes at www.robertmylesmcdonnell.com. My site is open-source, I
 
 
 - 📫 How to reach me: 
-  - Twitter, which I don't use very much: [@RobertMylesMc](https://twitter.com/RobertMylesMc)
-  - email, which I do: robertmylesmcdonnell@gmail.com
+  - email: robertmylesmcdonnell@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/robert-mcdonnell-7475b320/).
 
 <p align="center">
