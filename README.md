@@ -8,7 +8,7 @@ Open-Source projects I've contributed to:
 
 A couple of my toy projects:
   - Print an XKCD comic to the RStudio plot window with [XKCDdata](https://github.com/RobertMyles/XKCDdata).
-  - 🏉 [rugger](https://github.com/RobertMyles/rugger), and R package for rugby fans. 
+  - ~~🏉 [rugger](https://github.com/RobertMyles/rugger), and R package for rugby fans.~~
 
 
 I also blog sometimes at www.robertmylesmcdonnell.com. My site is open-source, I developed it using Gatsby.js, you can see the source [here](https://github.com/RobertMyles/site).
